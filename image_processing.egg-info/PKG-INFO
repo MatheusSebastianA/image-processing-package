@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.0.1
+Summary: My first package about image processing using Skimage
+Home-page: https://github.com/MatheusSebastianA/image-processing-package
+Author: Matheus Sebastian
+Author-email: matheussebastian@ufpr.br
+Requires-Python: >=3.5
+
 # package_name
 
 Description. 
